@@ -1,3 +1,9 @@
+# build
+build
+
+# firebase
+.firebase
+
 # Logs
 logs
 *.log
